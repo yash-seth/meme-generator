@@ -6,4 +6,4 @@ A tkinter-based Python application to create basic memes ;)
 - PIL - Python Imaging Library
 
 # How to run? 
-`python install -r requirements.txt`
+`pip install -r requirements.txt`
