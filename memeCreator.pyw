@@ -36,7 +36,7 @@ def outputMeme(pathIMG):
 
 window = Tk()
 
-window.title('Meme Creator')
+window.title('Meme Generator')
 
 screen_width = window.winfo_screenwidth()
 screen_height = window.winfo_screenheight()
