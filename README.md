@@ -1,5 +1,5 @@
 # Meme Generator
-A tkinter-based Python application to create basic memes ;)
+A tkinter-based Python application to create memes ;)
 
 # Dependencies
 - tkinter - the Standard GUI library for Python
